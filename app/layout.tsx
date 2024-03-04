@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { inter, roboto_condesed } from '@/app/ui/font';
+import { inter, roboto_condesed } from '@/app/ui/fonts';
 
 export default function RootLayout({
   children,
